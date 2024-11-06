@@ -1,0 +1,67 @@
+[
+
+  
+    { 
+      "name": "RegionUS RiskLow SensitiveNo",                      
+      "organization": "Organization A",              
+      "email": "user1@example.com",                      
+      "region": "US",                     
+      "sensitiveData": "No",              
+      "riskLevel": "Low",                  
+      "securityMeasures": "Encryption",           
+      "encryption": "Yes",                 
+      "dataResidencyCompliance": "Yes",    
+      "riskAssessment": "Yes",             
+      "audit": "Yes"                       
+    },
+    
+    {
+      "name": "RegionUS RiskMedium SensitiveYes",                      
+      "organization": "Organization A",              
+      "email": "user2@example.com",                      
+      "region": "US",                     
+      "sensitiveData": "No",              
+      "riskLevel": "High",                  
+      "securityMeasures": "Encryption",           
+      "encryption": "Yes",                 
+      "dataResidencyCompliance": "Yes",    
+      "riskAssessment": "Yes",             
+      "audit": "Yes"                       
+    },
+
+
+    {
+      "name": "RegionUS RiskHigh SensitiveYes",                      
+      "organization": "Organization A",              
+      "email": "user2@example.com",                      
+      "region": "APAC",                     
+      "sensitiveData": "Yes",              
+      "riskLevel": "Low",                  
+      "securityMeasures": "Encryption",           
+      "encryption": "Yes",                 
+      "dataResidencyCompliance": "Yes",    
+      "riskAssessment": "Yes",             
+      "audit": "Yes"                       
+    },
+
+    
+    
+    {
+      "name": "RegionUS RiskHigh SensitiveYes",                      
+      "organization": "Organization A",              
+      "email": "user2@example.com",                      
+      "region": "APAC",                     
+      "sensitiveData": "Yes",              
+      "riskLevel": "High",                  
+      "securityMeasures": "Encryption",           
+      "encryption": "Yes",                 
+      "dataResidencyCompliance": "Yes",    
+      "riskAssessment": "Yes",             
+      "audit": "Yes"                       
+    }
+
+    
+
+    
+
+  ]
